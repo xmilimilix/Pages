@@ -1,6 +1,5 @@
 ---
-title: Welcome to my blog
+title: MY MAP
 ---
 
-""MAP""
-"This is my map."
+This is my map.
