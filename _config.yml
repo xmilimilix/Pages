@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme
 # Titel und Logo für dieses Theme
 title: My Map
-logo: ./snake2.jpg
+logo: ./snake2.png
