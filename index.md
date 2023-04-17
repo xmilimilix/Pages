@@ -1,6 +1,7 @@
 
 ### MAP
 
-<iframe src="https://github.com/xmilimilix/Pages/blob/fbf9b899d9221c094aa835609a801f8c0275b58a/Map" height="500" width="500"></iframe>
+<iframe src="file://svr04.kf.local/homedrives$/1044133/Downloads/Maps_01.ipynb%20(4)%20-%20JupyterLab.htmlp" height="500" width="500"></iframe>
 
-Die Karte [als eigene Seite](https://github.com/xmilimilix/Pages/blob/fbf9b899d9221c094aa835609a801f8c0275b58a/Map).
+Die Karte [als eigene Seite](file://svr04.kf.local/homedrives$/1044133/Downloads/Maps_01.ipynb%20(4)%20-%20JupyterLab.html).
+
