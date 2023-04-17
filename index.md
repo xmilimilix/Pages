@@ -1,5 +1,5 @@
 ---
-title: MY MAP 1
+title: Map
 ---
 
-This is my map. 2
+The places I went.
