@@ -22,7 +22,7 @@ Die Karte [als eigene Seite](ASR.html).
 12. [Brunnen an der Freiestrasse](#brunnen-an-der-freiestrasse)
 13. [Luzernerhaus](#luzernerhaus)
 14. [Gachnager Stock](#gachnager-stock)
-15. [Bernerhaus "Zur Gedult"](#bernerhaus-"zur-gedult")
+15. [Bernerhaus 'Zur Gedult'](#bernerhaus-'zur-gedult')
 16. [Palme](#palme)
 17. [Krone](#krone)
 18. [Redinghaus](#redinghaus)
@@ -39,11 +39,11 @@ Die Karte [als eigene Seite](ASR.html).
 30. [Verwaltungsgebäude](#verwaltungsgebäude)
 31. [Kantonsbibliothek und ehemaliges Obergericht](#kantonsbibliothek-und-ehemaliges-obergericht)
 32. [Obergericht und Botanischer Garten](#obergericht-und-botanischer-garten)
-33. [Ehemals "Thurgauer Zeitung"](#ehemals-"thurgauer-zeitung")
+33. [Ehemals 'Thurgauer Zeitung'](#ehemals-"thurgauer-'zeitung')
 34. [Regierungsgebäude des Kantons Thurgau](#regierungsgebäude-des-kantons-thurgau)
 35. [Guggenhürli](#guggenhürli)
 36. [Die Tagsatzung in frauenfeld](#die-tagsatzung-in-frauenfeld)
-37. [Die Stadtbrände von 1771 und 1778](#die-stadtbrände-von-1771-und1778)
+37. [Die Stadtbrände von 1771 und 1778](#die-stadtbrände-von-1771-und-1778)
 
 
 Begeben Sie sich auf einen Rundgang durch die Altstadt. Lernen Sie unsere Stadt etwas näher kennen, tauchen Sie ein in die Vergangenheit der Stadt. Los geht's beim Wahrzeichen, dem Schloss Frauenfeld
