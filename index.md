@@ -274,12 +274,14 @@ Am 24. Oktober 1788 zerstörte ein beim Stadtwachtmeister Teucher, nahe dem Nied
 
 
 **Informationen zu Führungen durch die Altstadt Frauenfeld**
+
 Regio Frauenfeld Tourismus
 Bahnhofplatz 75, 8500 Frauenfeld
 www.regiofrauenfeld-tourismus.ch
 Tel. +41 (0)52 721 31 28
 
 **Impressum**
+
 Herausgeber: Stadt Frauenfeld und Regio Frauenfeld Tourismus
 3. Auflage, September 2016
 Text: Margrit Früh und Angelus Hux
