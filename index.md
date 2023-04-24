@@ -28,20 +28,31 @@ Die Karte [als eigene Seite](ASR.html).
 18. [Redinghaus](#redinghaus)
 19. [Brunnen beim Redinghaus](#brunnen-beim-redinghaus)
 20. [Stadtkirche St.Nikolaus](#stadtkirche-st.nikolaus)
-21. [Ehemaliges Gasthaus zum Hirschen](#ehemaliges-gasthaus-zum-hirschen)
-22. [Zürcherhaus](#zürcherhaus)
-23. [Rüpplinsche Kaplanei](#rüpplinsche-kaplanei)
-24. [Goldener Adler](#goldener-adler)
-25. [Meitlibrunnen](#meitlibrunnen)
-26. [Brunnen an der Promenade](#brunnen-an-der-promenade)
-27. [Baliere](#baliere)
-28. [Staatsarchiv und altes Zeughaus](#staatsarchiv-und-altes-zeughaus)
-29. [Verwaltungsgebäude](#verwaltungsgebäude)
-30. [Kantonsbibliothek und ehemaliges Obergericht](#kantonsbibliothek-und-ehemaliges-obergericht)
-31. [Obergericht und Botanischer Garten](#obergericht-und-botanischer-garten)
-32. [Ehemals "Thurgauer Zeitung"](#ehemals-"thurgauer-zeitung")
-33. [Regierungsgebäude des Kantons Thurgau](#regierungsgebäude-des-kantons-thurgau)
-34. [Guggenhürli](#guggenhürli)
+22. [Ehemaliges Gasthaus zum Hirschen](#ehemaliges-gasthaus-zum-hirschen)
+23. [Zürcherhaus](#zürcherhaus)
+24. [Rüpplinsche Kaplanei](#rüpplinsche-kaplanei)
+25. [Goldener Adler](#goldener-adler)
+26. [Meitlibrunnen](#meitlibrunnen)
+27. [Brunnen an der Promenade](#brunnen-an-der-promenade)
+28. [Baliere](#baliere)
+29. [Staatsarchiv und altes Zeughaus](#staatsarchiv-und-altes-zeughaus)
+30. [Verwaltungsgebäude](#verwaltungsgebäude)
+31. [Kantonsbibliothek und ehemaliges Obergericht](#kantonsbibliothek-und-ehemaliges-obergericht)
+32. [Obergericht und Botanischer Garten](#obergericht-und-botanischer-garten)
+33. [Ehemals "Thurgauer Zeitung"](#ehemals-"thurgauer-zeitung")
+34. [Regierungsgebäude des Kantons Thurgau](#regierungsgebäude-des-kantons-thurgau)
+35. [Guggenhürli](#guggenhürli)
+36. [Die Tagsatzung in frauenfeld](#die-tagsatzung-in-frauenfeld)
+37. [Die Stadtbrände von 1771 und 1778](#die-stadtbrände-von-1771-und1778)
+
+
+Begeben Sie sich auf einen Rundgang durch die Altstadt. Lernen Sie unsere Stadt etwas näher kennen, tauchen Sie ein in die Vergangenheit der Stadt. Los geht's beim Wahrzeichen, dem Schloss Frauenfeld
+
+ 
+
+**Übrigens:**  Versierte Stadtführerinnen und Stadtführer begleiten Sie gerne auf einem Rundgang durch die Frauenfelder Altstadt. Lassen Sie sich Hintergründe über die Architektur erklären und lustige Anekdoten aus naher und nicht Alu ferner Zeit erzählen Altstadtführungen und weiter spannende Führungen können bei Regio Frauenfeld Tourismus gebucht werden.
+
+ 
 
 
 ## Schloss Frauenfeld
@@ -247,4 +258,17 @@ Das Guggenhürli liegt im Langdorf, auf einer kleinen Kuppe über dem gleichnami
 
 [nach oben](#beschreibung-des-rundganges)
 
+
+## Die Tagsatzung in frauenfeld
+
+Von 1712 bis 1798 fanden 71 ordentliche eidgenössische Tagsatzungen in Frauenfeld statt. In der letzten, im März 1798, wurde die Freilassung des Thurgaus beschlossen. Jährlich im Juli versammelten sich die Vertreter der dreizehn eidgenössischen Orte zur Tagsatzung. Das "Syndikat", bestehend aus den sieben Orten Uri, Schwyz, Unterwalden, Luzern, Zürich, Glarus und Zug und ab 1712 auch Bern prüfte die Jahrrrechnungen und die Amtsführung der von ihnen eingesetzten Landvögte und entschied in Streitfällen. Die Gesandten, ihre Weibel, Sekretäre und Knechte sowie Gäste fanden Unterkunft in der "Krone", im "Hirschen" und in privaten Bürgerhäusen. Das Luzerner-, Berner- und das Zürcherhaus tragen noch heute den Namen des Standes ihrer Gäste.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Die Stadtbrände von 1771 und 1778
+
+Am 19. Juli 1771 brach am frühen Morgen beim Bäcker Adam Müller an der Vorderadresse Feuer aus. Ursache waren wohl Kohlen, die der Bäcker auf den Dachboden gebracht hatte. Ein starker Wind trug die Glut nach alle Richtungen. Die evangelische Kirche konnte knapp geretten werden, bis zum Gachnanger Stock, hinüber zur katholischen Kirche und zu beiden Seiten der Vordergasse bis zum "Goldenen Adler" sanken 65 Häuser in Asche, trotz der Hilfe vieler Löschmannschaften von Winterthur bis Ermatingen. Beim Wiederaufbau trugen vor allem die Tagssatzungsorte dazu bei, dass nach 1771 in diesem Stadtteil prächtige Bürgerhäuser erstellt wurden.
+Am 24. Oktober 1788 zerstörte ein beim Stadtwachtmeister Teucher, nahe dem Niedertor ausgebrochenes neues Feuer praktisch den ganzen Stadtteil, der 1771 noch verschont geblieben war. Einzig die Häuser vom Schloss zum Holdertor und bis zur evangelischen Kirche blieben verschont. Zusammen mit 33 weiteren Häusern fiel auch das alte Rathaus mit dem Tagsatzungssaal und seiner Kauf- und Markthalle den Flammen zum Opfer. Wiederum trugen Spenden, vor allem aus den regierenden Orten dazu bei, nicht nur die grösste Not zu lindern, sondern den Stadtteil wiederaufzubauen.
+
+[nach oben](#beschreibung-des-rundganges)
 
