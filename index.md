@@ -18,29 +18,31 @@ Die Karte [als eigene Seite](ASR.html).
 8. [Mädchenschule](#mädchenschule)
 9. [Haus zum Schwert](#haus-zum-schwert)
 10. [Brunnen im Sauren Winkel](#brunnen-im-sauren-winkel)
+11. [Evangelische Stadtkirche](#evangelische-stadtkirche)
+12. [Brunnen an der Freiestrasse](#brunnen-an-der-freiestrasse)
+13. [Luzernerhaus](#luzernerhaus)
+14. [Gachnager Stock](#gachnager-stock)
+15. [Bernerhaus "Zur Gedult"](#bernerhaus-"zur-gedult")
+16. [Palme](#palme)
+17. [Krone](#krone)
+18. [Redinghaus](#redinghaus)
+19. [Brunnen beim Redinghaus](#brunnen-beim-redinghaus)
+20. [Stadtkirche St.Nikolaus](#stadtkirche-st.nikolaus)
+21. [Ehemaliges Gasthaus zum Hirschen](#ehemaliges-gasthaus-zum-hirschen)
+22. [Zürcherhaus](#zürcherhaus)
+23. [Rüpplinsche Kaplanei](#rüpplinsche-kaplanei)
+24. [Goldener Adler](#goldener-adler)
+25. [Meitlibrunnen](#meitlibrunnen)
+26. [Brunnen an der Promenade](#brunnen-an-der-promenade)
+27. [Baliere](#baliere)
+28. [Staatsarchiv und altes Zeughaus](#staatsarchiv-und-altes-zeughaus)
+29. [Verwaltungsgebäude](#verwaltungsgebäude)
+30. [Kantonsbibliothek und ehemaliges Obergericht](#kantonsbibliothek-und-ehemaliges-obergericht)
+31. [Obergericht und Botanischer Garten](#obergericht-und-botanischer-garten)
+32. [Ehemals "Thurgauer Zeitung"](#ehemals-"thurgauer-zeitung")
+33. [Regierungsgebäude des Kantons Thurgau](#regierungsgebäude-des-kantons-thurgau)
+34. [Guggenhürli](#guggenhürli)
 
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
-
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
-
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.   
-
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.   
-
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.   
-
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum. sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.   
-
-Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.   
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
-
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
-
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.   
-
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
 
 ## Schloss Frauenfeld
 
@@ -99,3 +101,150 @@ Im 16 Jahrhundert Gasthof 1615 Besitz von Kaspar Müller, Neubau 1630-1632 Vorde
 Rechteckiger, zirka 60 cm tiefer, zum Achteck (3.12 auf 2.15 m) ab- geschrägter Trog aus Solothurner Muschelkalk. An der Breitseite stand 1860 noch ein Sudeltrog. Flickstel- len für den früheren Rost zeigen, dass der Brunnenstock mit der Bron- zeröhre an der linken Schmalseite stand. Er ist wie der Trog aus einem einzigen Stein gehauen und 2.5m. hoch. Der Brunnen diente auch einer Küferel am Platz. Hier wurden Wein- und Mostfässer gespült. Der dabei entstehende Geruch gab wohl dem Platz den Namen.
 
 [nach oben](#beschreibung-des-rundganges)
+
+## Evangelische Stadtkirche
+
+Erbaut 1927 bis 1929. Erste evangelische Kirche an der gleichen Stelle erbaut 1644/45. 1927 bis auf den Turm abgebrochen Neubau nach Entwurf von Hans Wiesmann, Müllheim/Köln Das 1930 in der Chorwand eingefügte Glasfenster von: Augusto Giacometti (1877-1947)) zeigt über den unteren, abstrakt ornamental gestalteten Bildquadraten Szenen aus dem Leben Christi. Orgel der Firma Orgelbau Metzler, Dietikon ZH, von 1985.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Brunnen an der Freiestrasse
+
+Der mit Ausdehnungen von 4.90m auf 2 45m und einer Höhe von 1m aus einem Mägenwiler Muschelkalk Monolithen gehauene grösste Brunnentrog der Altstadt wurde wohl, wie der Brunnen beim Redinghaus, etwa um 1840/1860, noch vor der Einführung der städtischen Wasserversorgung (1885) aufgestellt.
+[nach oben](#beschreibung-des-rundganges)
+
+## Luzernerhaus
+
+Erbaut 1771 nach dem ersten Stadtbrand für Schultheiss Nikolaus Rogg Absteigequartier der Luzerner Tagsatzungsbeamten, 1843 Kauf durch den Kanton TG. 1868 Privatbesitz 1885 Sparkasse der Bürgergemeinde Frauenfeld. 1893 Kantonalbank 1919 Kauf durch die Thurgauische Museumsgesellschaft. Thurgauisches Museum 1924-1960. Seit 1958 im Besitz des Kantons. Seit 1972 Natur museum. Daran arschliessend ehe maliges Kantonalgefängnis, heute Museum für Archäologie Thurgau, und Wirtschaft «Zum Goldenen Becher.
+
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Gachnager Stock
+
+Erbaut 1771 nach dem ersten Stadtbrand für Landrichter Sebastian Locher. Vorgängerbau, bewohnt von den Herren von Gachnang, 1407 im Appenzellerkrieg zerstört, nach 1434 wieder aufgebaut, abgebrannt 1771. Besitz der Familie Locher 1538 bis 1817. Vor diesem Haus nahm der Landvogt alle zwei Jahre die Eidesleistungen der Bewohner benachbarter Gemeinden entgegen.
+
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Bernerhaus "Zur Gedult"
+
+Erbaut 1771 nach dem ersten Stadtbrand für die Geschwister Mörikofer. Absteigequartier der Berner Tagsatzungsgesandten. Bern lieferte die Pläne und half beim Wiederaufbau nach dem Brand. Eigentum der Evangelischen Landeskirche des Kantons Thurgau.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Palme
+
+Erbaut 1771 nach dem ersten Stadtbrand für Alberic Locher von Freudenberg. Absteigequartier der Tagsatzungsgesandten aus Uri, Schwyz, Unterwalden, Zug, Appenzell-Innerrhoden sowie der Fürstabtei St. Gallen. 1817 bis 1833 Dépendance der benachbarten Krone. 1910 Kauf durch die Thurgauische Hypothekenbank, 1917 Schweizerische Kreditanstalt, 1971 Aussenrenovation und völliger Neubau im Innern.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Krone
+
+Erbaut 1771 nach dem ersten Stadtbrand für Landweibel Rogg. Schon im 16. Jahrhundert als Gasthaus erwähnt. Absteigequartier der Tagsatzungsgesandten aus katholisch Glarus. Hotel bis 1867, seit dem 18. Jahrhundert Absteigeort zahlreicher prominenter Personen.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Redinghaus
+
+Erbaut 1771 nach dem ersten Stadtbrand. Auch alte Landeskanzlei oder Landschreiberei genannt. Im Besitz der Familie Reding von Biberegg, thurgauische Landschreiber 1628 bis 1798. 1807 bis 1865 erstes Regierungsgebäude des Kantons Thurgau. Die Wappenschilde der Familie Reding an der Fassade wurden darum durch Thurgauer Wappen ersetzt. Ab 1868 Privatbesitz, seit 2006 im Eigentum der Stadt Frauenfeld.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Brunnen beim Redinghaus
+
+Die prächtige ovale 4.6m lange und 3.3m breite muschelartige Brunnenschale aus Mägenwiler Muschelkalk ist mit dem gemauerten Sockel fast 90cm hoch.  Monolithe für einen solchen Trog wurden im Steinbruch gehauen, auf die benötigte Tiefe (hier 45 cm) ausgehöhlt und per Pferdefuhrwerk, wahrscheinlich zusammen mit dem Stock, über mehrere Tage nach Frauenfeld gebracht.  Passend zum Trog hat der 3,7 m hohe Boden zwei bronzene Brunnenrohre, die von Schmiedeeisen gehalten werden. Er wird heute noch für manche "Gautschete" zu Lehrabschlüssen im Grafischen Gewerbe genutzt.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Stadtkirche St.Nikolaus
+
+Erbaut zwischen 1904 und 1906. Vorgängerbauten: Erste Kapelle um 1286, unterschiedlich erweitert.  1771 beim ersten Stadtbrand zerstört, dann wieder aufgebaut, 1904 abgerissen. Heutiges Gebäude von Albert Rimli.  Restaurierung von 1967 bis 1969. Altarbilder von Karl Manninger, Metzler-Orgel von 1969. Gesamtrenovierung außen und innen 2014-2016.  Anpassungen im Bereich des Chores und des zentralen Taufbeckens.
+  
+[nach oben](#beschreibung-des-rundganges)
+
+## Ehemaliges Gasthaus zum Hirschen
+
+Erbaut 1771 nach dem ersten Stadtbrand für Melchior neuwiler. Absteigequaartiwe der Tagsatzungsgesandten von reformierten Glarus, St.Gallen und Schaffhausen. Seit 1890 Eigentum der Katholischen Kirchengemeinde Frauenfeld.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Zürcherhaus
+
+Erbaut 1771 nach dem ersten Stadtbrand anstelle dreier Häuser für Ratsherr Gabriel Neuwiler. 1780 bis 1798 Kanzlei der Zürcher Tagsatzungsgesandten. 1838 bis 853 Wohnhaus von Minister Johann Conrad Kern.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Rüpplinsche Kaplanei
+
+Erbaut 1771 nach dem ersten Stadtbrand. Pfrundhausv fpr einen katholischen Priester, gestiftet 1580 von Joachim Joner, genannt Rüpplin. Eigentum der Rüpplinschen Stiftung. Renovationv 1985-1986 durch STiftung und katholische Kirchengemeinde Frauenfeld. Sehenswerter barocker Garten mit zwei Pavillions auf der Nordseite gegen die Grabenstrasse.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Goldener Adler
+
+Erbaut vor 1454. Älteste datierbare Balken von etwa 1454 bis 1628. Oftmals verändert. 1454 bis 1628 im Besitz der Familie Locher. Öfters Wohnsitz des SChultheissen der  Stadt. Einziges Haus in der Zürcherstrasse das von beiden Stadtbränden (1771,1788) verschont blieb. Restaurierung 1988.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Meitlibrunnen
+
+1953 in der Kirchengasse erstellt, als ERsatz für einen 1948 entfrenten Brunnen, nachdem die Idee, hier Parkplätze zu schaffen, verworfen wurde. Bildhauer Walter Knecht von SChaffhausen nannte den Brunnen mit dem singenden Mädchen "Volkslied", im Volksmund wurde er zum "Meitlibrunnen". Rechteckiger, 65cm hoher Trog von 2.25m auf 1.37m aus Muschelkalk. 1.5m hoher Stock mit Bronzeplastik und Messingröhre.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Brunnen an der Promenade
+
+Schön gestaltetes Brunnenbecken mit Sudeltrog. Im grossen Trog musste das WAsser für die Tiere und den Hausgebrauch sauber bleiben, im Suddeltrog konnten Gartengeräte oder die Schuhe gewaschen werden. Am grossen Trog ( Solothurner Muschelkalkmonolith 3.3m auf 1.9m) die Jahreszahl 1871. Der kleinere Sudeltrog ist 14cm weniger hoch und wird wie der grosse Trog aus dem 1.8m hohen achteckigen Stock gespiesen.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Baliere
+
+Erbaut 1555-1557 als Wohn- und Gemeinschaftshaus für Hans Hoffmann, Balierer oder Schwertfeger von Nürnberg, zugezogen von Lindau. Hoffmann erhielt 1552 von der Eidg. Tagsatzung die Niederlassungsbewilligung und gleichzeitig die ERlaubnis zur Ausübung seines Berufes als Waffenschmied. Im gebiet der Baliere entwickelte sich seit etwa 1500 ein Gewerbequartier mit Mühle, Färberei, Bleiche und Gerberei. Die Werkstatt Hoffmanns befand sich auff dem Areal der heutigen Gerberei-Liegenschaft Kappler, die von einem Fabrikkanal energiemässig erschlossen war. Zwei Wasserräder betrieben die Anlagen der Waffenschmiede.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Staatsarchiv und Altes Zeughaus
+
+Der steilgieblige Massivbau wurde 1819/20 als erster Neubau des jungen Kantons Thurgau durch Johann Sulzberger (1762-1841) erstellt. Im Massivbau wurde die Mannschaftsausrüstung sowie das Korpsmaterial der ersten Thurgauer Miliz gelagert. 1913-1916 fügten die Architekten Brenner & Stuz einen Verbindungsbau zwichen das Alte Zeughaus und den ältesten Teil, die sogenannte "alte Farb" an der Zeughausstrasse- Dadurch entstand ein Innenhof. Im Brennerbau ist heute das Staatsarchiv untergebracht. Das Alte Zeughazs dient dem Historichen Museum als Austellungsraum.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Verwaltungsgebäude
+
+Erbaut 1966 bus 1968 von der Gebäudeversicherung des Kantons Thurgau nach Plänen von Bruno Haldenmann und Ernst Müller, Grenchen, durch Kräher und Jenni Frauenfeld. Vorgängerbau: Promenadenschulhaus, erbaut 1862/63 von Joachim Brenner; abgebrochen 1966.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Kantonsbibliothek und ehemaliges Obergericht
+
+Erbaut 1847 bis 1851 von der Bürgergemeinde Frauenfeld durch Johann Joachim Brenner. 1853 bis 1911 Thurgauerische kantonsschule. Seit 1912 Bibliothek und 1912 bis 2003 Obergericht des kantons Thurgau.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Obergericht und Botanischer Garten
+
+1865 wurde für die Kantonsschule ein Lehrgarten angelegt. Das Gebäude diente als erweiterung der Kantonsschule, nach dem Umzug der Schule in den Neubau an der Ringstrasse 1911 blieb es Konvikt für auswärtige Schüler. 2003 zog nach einer Renovation das Obergericht ein. Der in Vergessenheit geratene Garten wurde wiederhergestellt, der historische Lustpavillon in der Mitte des Parks renoviert. Alte, wertvolle Bäume erhilten Pflege, andere Sorten wurden frisch gepflanzt. Täglich geöffnet von 8 bis 18 Uhr, im Sommer bis 20 Uhr.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Ehemals "Thurgauer Zeitung"
+
+Mitteltrakt erbaut 1836 bis 18 39 für Christian Beyel als Zeitungs- und Buchdruckerei. Nordflügel 1870 und Südflügel 1880 für Jacques Huber. Magazin und Buchbinderei an der Staubeggstrasse 1871 und 1891 angefügt. Später weitere Um- und Aubauten. Nach dem Erlöschen der Firma Huber & Co. 2011 erfolgte der Rückbau auf den Kernbestand. Im dahinterliegenden Park entstand Stadtvillen mit Eigentums- und Mietwohnungen.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Regierungsgebäude des Kantons Thurgau
+
+Erbaut 1866 bis 1868 von Joachim Brenner. 1935/36 Anbau des Südflügels durch Albert Brenner. Im Treppenhaus Wappenscheiben der Eidgenössischen Stände 1960. 2013/2014 Gesamtrenovation und Umgestaltung des ehemaligen Archivflügels an der Staubeggstrasse durch die Architekten Staufer & Hasler, Frauenfeld.
+
+[nach oben](#beschreibung-des-rundganges)
+
+## Guggenhürli
+
+Das Guggenhürli liegt im Langdorf, auf einer kleinen Kuppe über dem gleichnamigen Rebberg. Das ehemalige Sommer- und Rebhaus wurde um 1580 von Hans Joachim Rüpplin, Vogt des Reichenauischen Amtes Frauenfeld, erbaut. Von 1838 bis 1871 war die Liegenschaft im Besitz von Minister Dr. Johann Conrad Kern (1808-1888), u.a. Redaktor der Bundesverfassung von 1848 und Schweizerischer Gesandter in Paris. 1966 übernahm eine Genossenschaft das Guggenhürli. Sie renovierte den Bau und legte einen Rebberg an.
+
+[nach oben](#beschreibung-des-rundganges)
+
+
