@@ -281,6 +281,6 @@ Tel. +41 (0)52 721 31 28
  
 **Impressum**  
 Herausgeber: Stadt Frauenfeld und Regio Frauenfeld Tourismus  
-'3.' Auflage, September 2016  
+3\. Auflage, September 2016  
 Text: Margrit Früh und Angelus Hux  
 Bildmaterial: Stadt Frauenfeld und Regio Frauenfeld Tourismus  
